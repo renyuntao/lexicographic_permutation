@@ -1,1 +1,1 @@
-# lexicographic_permutation
+Implement algorithm of **Lexicographic Permutation** in Python.  
